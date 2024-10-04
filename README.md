@@ -1,6 +1,13 @@
 # LITA-Class-Documentation
 
 ### Data Analysis
+----
+[Excel for Data Analysis] (#excel-for-data-analysis)
+
+[Key Features and Functions of Excel] (key-features-and-functions-of-excel)
+
+[SQL Structured Query Language for Data Analysis] (SQL-Structured-Query-Language- for- Data- Analysis)
+
 ### Excel for Data Analysis
 Excel is widely used for data manipulation, analysis, and visualization. It’s a powerful tool for small to medium-sized datasets, especially when interactive features or quick calculations are needed.
 ### Key Features and Functions of Excel:
@@ -44,7 +51,11 @@ Example: SELECT department, COUNT(*) FROM Employees GROUP BY department;
 * Window Functions: Used for ranking, cumulative totals, moving averages, etc.
 * Data Integrity: SQL databases enforce constraints like primary keys, foreign keys, and unique constraints to ensure the accuracy of data.
 * Views: SQL allows the creation of virtual tables (VIEWS) to simplify complex queries or restrict data access.
-Example: CREATE VIEW HighSalaryEmployees AS SELECT * FROM Employees WHERE salary > 50000;
-Stored Procedures & Functions: These allow you to write reusable SQL code blocks for tasks like data processing.
+Example:
+```SQL
+CREATE VIEW HighSalaryEmployees AS SELECT * FROM Employees
+WHERE salary > 50000;
+```
+
 
 
