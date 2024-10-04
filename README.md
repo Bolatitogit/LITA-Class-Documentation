@@ -2,11 +2,11 @@
 
 ### Data Analysis
 ----
-[Excel for Data Analysis] (#excel-for-data-analysis)
+[Excel for Data Analysis](#excel-for-data-analysis)
 
-[Key Features and Functions of Excel] (key-features-and-functions-of-excel)
+[Key Features and Functions of Excel](#key-features-and-functions-of-excel)
 
-[SQL Structured Query Language for Data Analysis] (SQL-Structured-Query-Language- for- Data- Analysis)
+[SQL Structured Query Language for Data Analysis](sql-structured-query-language-for-data-analysis)
 
 ### Excel for Data Analysis
 Excel is widely used for data manipulation, analysis, and visualization. It’s a powerful tool for small to medium-sized datasets, especially when interactive features or quick calculations are needed.
