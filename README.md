@@ -60,7 +60,7 @@ WHERE salary > 50000;
 ```
 ### Power BI for Data Analysis
 Power BI is a powerful business analytics tool developed by Microsoft, designed to provide interactive visualizations and business intelligence capabilities with a simple interface for creating reports and dashboards. It allows users to connect, model, and visualize data, making it useful for data analysis and insights.
-Key Concepts in Power BI for Data Analysis
+### Key Concepts in Power BI for Data Analysis
 1 Data Sources and Connections:
 
 * Power BI supports a wide range of data sources, including SQL databases, Excel, cloud services like Azure and Google Analytics, APIs, and even real-time data streams.
