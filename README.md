@@ -121,6 +121,6 @@ Reports created in Power BI Desktop can be uploaded to the Power BI Service for 
 * Power BI has a mobile version that allows users to view reports and dashboards on smartphones and tablets, providing flexibility and accessibility for insights on the go.
 
 ```
-![image](https://github.com/user-attachments/assets/1b1d27aa-9a57-4162-9714-cfe45eed0df2)
+Screenshot 2024-10-25 202554.png
 ```
 Some of the visuaizations we did in class
