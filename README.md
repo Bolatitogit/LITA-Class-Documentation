@@ -123,4 +123,4 @@ Reports created in Power BI Desktop can be uploaded to the Power BI Service for 
 
 
 
-Some of the visuaizations we did in class
+
